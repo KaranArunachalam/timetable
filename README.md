@@ -131,6 +131,7 @@ REGISTER NUMBER : 212223230099
 </html>
 ```
 
-# OUPUT
+# OUTPUT
 ![image](o1.png)
-
+# RESULT
+Thus the program is executed successfully.
